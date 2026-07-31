@@ -16,4 +16,4 @@ async def check_membership(bot, user_id):
         except:
             return False
 
-    return True
+    return True 
